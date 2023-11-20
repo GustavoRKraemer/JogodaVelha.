@@ -3,6 +3,7 @@ body {
     font-family: Arial, sans-serif; /* Define a fonte principal para Arial, com uma fonte de fallback em sans-serif caso Arial não esteja disponível. */
     text-align: center; /* Centraliza o texto no corpo da página. */
     background-color: #f0f0f0; /* Define a cor de fundo como um tom de cinza claro. */
+        background-image: url("jogodavelha.jpeg");   
 }
 
 /* Estiliza o contêiner do tabuleiro */
